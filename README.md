@@ -1,8 +1,8 @@
-# _{Cat Blog}_
+# _Cat Blog_
 
-#### _{The blog of a cat}, {May 21, 2018}_
+#### _The blog of a cat, May 21, 2018_
 
-#### By _**{Nikki Boyd, Kelli McCloskey}**_
+#### By _**Nikki Boyd, Kelli McCloskey**_
 
 ## Description
 
@@ -14,18 +14,18 @@
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and contact details
 
-_{Email thisfakeemailaddress@fake.com}_
+_Email thisfakeemailaddress@fake.com_
 
 ## Technologies Used
 
-_{HTML, CSS}_
+_HTML, CSS_
 
 ### License
 
-*{MIT}*
+*MIT*
 
 Copyright (c) 2018 **_{Kelli McCloskey, Nikki Boyd}_**
